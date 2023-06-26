@@ -1,0 +1,275 @@
+h1{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 25px;
+
+}
+
+body{
+    background-color: black;
+}
+
+#heading{
+    margin-bottom: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+#a{
+    font-size: 25px;
+}
+
+.dp{
+    background-image: url("pic/alr.jpg");
+    background-size: 100% 150%;
+    background-repeat:no-repeat;
+    margin-top: 0px;
+    margin-bottom: -20px;
+    margin-right: -10px;
+    margin-left: -10px;
+} 
+
+#mem{
+    background-color: black;
+    color: aliceblue;
+    text-transform: capitalize;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 15px;
+    position: absolute;
+    top: 1613px;
+
+
+}
+
+.final{
+
+}
+
+
+.log{
+    color: brown;
+    font-size: small;
+    text-transform: capitalize;
+    position: absolute;
+    top: 255px;
+    left: 638px;
+}
+
+.rule{
+
+    color: blue;
+    text-transform: capitalize;
+    font-size: small;
+
+    
+}
+
+#login{
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: rgba(112, 72, 27, 0.2);
+    margin-top: 50px;
+    margin-left: 530px;
+    margin-right: 530px;
+    text-align: center;
+    font-size: 100%;
+    height: 280px;
+
+
+}
+
+#en{
+    font-size: 30px;
+}
+
+#sub{
+    background-color: black;
+    color: white;
+    gap: 5px;
+}
+
+.qw{
+    padding: 3px;
+}
+
+.medi{
+    
+padding: 10px;
+margin-left: -20px;
+text-transform: capitalize;
+color: black;
+
+}
+
+.menu{
+    background-color: black;
+    padding: 12px;
+    margin-bottom: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    text-transform: capitalize;
+
+}
+
+#plus{
+    font-size: 27px;
+    position: absolute;
+    top: 82px;
+    left: -180px;
+}
+
+a{
+    color: white;
+    margin-left: 200px;
+    background-color: black;
+    text-decoration: none;
+}
+
+.ug{
+    margin-left: -10px;
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+    margin-right: -10px;
+}
+
+.pg{
+    width: 600px;
+    background-color: white;
+    
+    color: black;
+    position: relative;
+    left: 400px;
+    bottom: 430px;
+    font-size: 17px;
+    padding-left: 60px;
+}
+
+.phd{
+
+    width: 420px;
+    background-color: black;
+
+    color: white;
+    padding: 16px;
+    position: relative;
+    bottom: 867px;
+    left: 800px;
+    padding-left: 20px;
+
+}
+
+
+a:link{
+    color: white;
+}
+a:hover{
+    color: brown;
+}
+
+
+.abc{
+    background-color: rgba(136, 181, 207, 0.808);
+    width: 750px;
+    height: 600px;
+    margin-left: -10px;
+    position: relative;
+    bottom: 883px;
+    text-align: center;
+}
+
+
+.round{
+    border: 3px solid white;
+    border-radius: 150px;
+
+}
+
+.owner{
+    border: 1px solid rgba(136, 181, 207, 0.808);
+    background-color:rgba(136, 181, 207, 0.808) ;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 550px;
+    position:absolute;
+    top:1314px;
+    right: 915px;
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 10px 5px blue;
+
+}
+
+.cab{
+    background-color: red;
+    width: 750px;
+    margin-right: -10px;
+    height: 600px;
+    position: relative;
+    bottom: 883px;
+}
+
+.info{
+    display: flex;
+
+}
+
+
+
+#a{
+    position: absolute;
+    top: 1700px;
+    right: 450px;
+}
+
+#b{
+    position:absolute;
+    top: 1700px;
+    left: 0px;
+}
+
+#c{
+    position: absolute;
+    top: 1700px;
+    right: 0px;
+}
+#d{
+    position: absolute;
+    top:2200px;
+    right: 450px;
+}
+#e{
+    position: absolute;
+    top: 2200px;
+    left: 0px;
+}
+#f{
+    position: absolute;
+    top: 2200px;
+    right: 0px;
+}
+
+#g{
+    position: absolute;
+    top: 2700;
+    left: 0px;
+}
+
+#h{
+    position: absolute;
+    top: 2700;
+    right: 450px;
+}
+
+.copy{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    top: 2950px;
+    right: 20px;
+}
